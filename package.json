@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-api-aws",
+  "version": "1.0.0",
+  "description": "Conecct to aws s3 storage from whatsapp cloud api",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello world\");",
+    "start": "nodemon index.js"
+  },
+  "author": "shreyas sreedhar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
